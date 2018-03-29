@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# ctags cscope file
+cscope.*
+tags*
+
+# data temp file
+big.lammpstrj*
